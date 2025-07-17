@@ -84,7 +84,7 @@ JetBrains IDE и Visual Studio в этом плане более закрыты 
   - **JetBrains IDE** (CLion, PyCharm, IntelliJ, WebStorm, Rider) — закрытая архитектура, свои агенты можно добавить только через написание собственного плагина на Kotlin/Java.
   - **Visual Studio** — крайне ограниченные возможности. Собственные агенты подключить практически невозможно без модификации самой IDE.
 
-- **Платность**  
+- **Стоимость**  
   - JetBrains IDE — коммерческие продукты. Есть **All Products Pack** для доступа ко всем IDE. Стоимость от $149 в год за одну IDE.  
     [Цены JetBrains](https://www.jetbrains.com/store/).  
   - Visual Studio — платно для версий Professional и Enterprise. Бесплатна только Community-версия (ограничена по лицензированию).  
