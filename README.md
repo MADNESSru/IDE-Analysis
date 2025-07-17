@@ -218,11 +218,11 @@ JetBrains IDE и Visual Studio в этом плане более закрыты 
 - [TabbyML (open-source Copilot)](https://github.com/TabbyML/tabby) 
 - [Continue.dev (open-source агент для VSCode)](https://continue.dev)
 - [VSCode Marketplace](https://marketplace.visualstudio.com/)
-- [Meta Code LLaMA](https://ai.meta.com/research/publications/code-llama/) *
-- [StarCoder 2](https://huggingface.co/bigcode/starcoder2) *
+- [Meta Code LLaMA](https://www.llama.com/code-llama/) 
+- [StarCoder 2](https://github.com/bigcode-project/starcoder2) 
 - [DeepSeek-Coder](https://huggingface.co/DeepSeek-AI) 
-- [WizardCoder](https://huggingface.co/WizardLM/WizardCoder) *
-- [Microsoft Phi-3](https://huggingface.co/microsoft/phi-3-mini)
+- [WizardCoder](https://huggingface.co/WizardLMTeam/WizardCoder-15B-V1.0)
+- [Microsoft Phi-3](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct) 
 - [LocalPilot](https://github.com/danielgross/localpilot)
 - [OpenAI API](https://platform.openai.com/)
 - [Anthropic Claude](https://www.anthropic.com/claude)
