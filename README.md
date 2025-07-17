@@ -156,7 +156,7 @@ JetBrains IDE и Visual Studio в этом плане более закрыты 
   - [Continue.dev](https://continue.dev)
   - [TabbyML](https://tabbyml.github.io)
   - [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
-  - [LocalPilot](https://marketplace.visualstudio.com/items?itemName=localpilot.localpilot)
+  - [LocalPilot](https://github.com/danielgross/localpilot)
 
 ---
 
@@ -223,6 +223,6 @@ JetBrains IDE и Visual Studio в этом плане более закрыты 
 - [DeepSeek-Coder](https://huggingface.co/DeepSeek-AI)
 - [WizardCoder](https://huggingface.co/WizardLM/WizardCoder)
 - [Microsoft Phi-3](https://huggingface.co/microsoft/phi-3-mini)
-- [LocalPilot](https://github.com/continuedev/localpilot)
+- [LocalPilot](https://github.com/danielgross/localpilot)
 - [OpenAI API](https://platform.openai.com/)
 - [Anthropic Claude](https://www.anthropic.com/claude)
