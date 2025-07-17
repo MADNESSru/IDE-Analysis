@@ -154,7 +154,7 @@ JetBrains IDE и Visual Studio в этом плане более закрыты 
 ### Где запускать локальные агенты:
 - Использовать **VSCode** с плагинами:
   - [Continue.dev](https://continue.dev)
-  - [TabbyML](https://tabbyml.github.io) *
+  - [TabbyML](https://www.tabbyml.com/)
   - [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
   - [LocalPilot](https://github.com/danielgross/localpilot)
 
@@ -215,7 +215,7 @@ JetBrains IDE и Visual Studio в этом плане более закрыты 
 - [GitHub Copilot](https://github.com/features/copilot)
 - [JetBrains AI Assistant](https://www.jetbrains.com/ai/)
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-- [TabbyML (open-source Copilot)](https://tabbyml.github.io) *
+- [TabbyML (open-source Copilot)](https://github.com/TabbyML/tabby) 
 - [Continue.dev (open-source агент для VSCode)](https://continue.dev)
 - [VSCode Marketplace](https://marketplace.visualstudio.com/)
 - [Meta Code LLaMA](https://ai.meta.com/research/publications/code-llama/) *
