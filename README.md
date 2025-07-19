@@ -285,9 +285,9 @@ WCGW — это специфический тип MCP, поставляющий 
 - [Context7 и MCP от Upstash (официальный блог)](https://upstash.com/blog/context7-mcp)
 - [Контекстные источники для LLM: llms.txt и Context7](https://upstash.com/blog/context7-llmtxt-cursor)
 - [Как Context7 MCP изменил работу с Copilot и VSCode (опыт использования)](https://medium.com/@matteo28/how-context7-mcp-by-upstash-transformed-my-vscode-and-copilot-workflow-1658a7826ec4)
-- [Sequential Thinking MCP: AI Reasoning Patterns](https://www.promptingguide.ai/techniques/chain-of-thought) — описание концепций цепочек размышлений (Chain-of-Thought) как основ MCP типа Sequential Thinking.
+- [Sequential Thinking MCP: AI Reasoning Patterns](https://www.prompthub.us/blog/chain-of-thought-prompting-guide) — описание концепций цепочек размышлений (Chain-of-Thought) как основ MCP типа Sequential Thinking.
 - [Playwright и AI-Assisted Testing](https://playwright.dev) — официальная документация Playwright, основа для Playwright MCP.
-- [Filesystem Indexing для LLM](https://blog.wandb.ai/how-llms-read-code-files-structure-context) — объяснение важности файлового контекста для LLM.
+- [Filesystem Indexing для LLM](https://dev.to/jamesbmour/llamaindex-revolutionizing-data-indexing-for-large-language-models-part-1-1nhj) — объяснение важности файлового контекста для LLM.
 
 ---
 
